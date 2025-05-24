@@ -1,0 +1,7 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.extraPaths": ["./xpressaiapp"],
+    "python.pythonPath": ".venv/bin/python"  // for Linux/macOS
+    // "python.pythonPath": ".venv\\Scripts\\python.exe" // for Windows
+  }
+  
